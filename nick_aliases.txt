@@ -1,5 +1,5 @@
 3,ames,ames_c,ames|secondarycore
-3,bidserv
+3,bidserv,bidbotecho
 3,bojii,bojii_
 3,diderobot,diderobot_,diderobot_test
 3,ekimbot,ekimbot-unbound,ekimbot_dev,ekimbot|4,ekimtestbot
