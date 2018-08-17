@@ -131,7 +131,7 @@
 1,cantwearhats,cantwearhats_,cantwearapps,cantwearhats_phone,
 1,capnhat,capnhat87
 1,captainrobert,captainrobert1111,capnrobert,capnroberts,captainnrobert,captainnrobert-work,captainrobert-work
-1,captainspam,captainspam_,captain_captainspam,captainspamphone,spamonthego
+1,captainspam,captainspam_,captain_captainspam,captainspamphone,spamonthego,spamatwork
 1,cardshark,cardshark_
 1,carl_,carl,carl|,carl_miller
 1,catelite,cate,cate[200ft],cate[50ft]
