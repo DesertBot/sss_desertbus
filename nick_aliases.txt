@@ -900,6 +900,7 @@
 1,zaltharas,zaltharas_
 1,zanasobayncuh,zanasobayncuh_
 1,zanzabar,zanzabar_
+1,zeldazach,zeldazach_wurk,zeldazach_,zeldazac,zeldazac_
 1,zephe,zephe_
 1,zeruss,zeruss_
 *,zzz
