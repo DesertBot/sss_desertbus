@@ -5,6 +5,7 @@ Stats hosted at [stats.dbcommunity.org](http://stats.dbcommunity.org)
 
 ## installation
 Build the Docker image
+
 `docker build -t chat-stats .`
 
 Add generation script and database backup to cron (every hour and at 00:10 every day respectively)
