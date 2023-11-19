@@ -209,7 +209,7 @@
 1,dezren,dezren2
 1,dgatsby,dgatsby_
 1,dialmformara,dial_m_for_mara
-1,dicey,dicey1,dicey2,dicey-twerk,dicey|monaco,dicey|phone,dicey|tablet,dicey-work
+1,dicey,dicey1,dicey2,dicey-twerk,dicey|monaco,dicey|phone,dicey|tablet,dicey-work,dicey-guest
 1,didero,didero_,didebro,dideraging,dideralso,dideremote,dideroaming,derosghost,diderosghostsghost,didero|afk,didero|dinner,didero|gaming,didero|lunch,didewrong,diiiiiideeeeeeroooooo,didero|work
 1,digi,digi7
 1,dinokittehfrog,dinokittehfrog1,dinokittehfrog_,crisis_dkf,zombie_dinokittehfrog,zombiedinokittehfrog,cinnamon_dkf,dinocrittehfrog,dinodotkittehfrog,dinokittehfrog_corpse,dinokittehfrogc,dinokittehfrogpiggy,dinopuppehfrog,frozen_dkf,fuffy_frog,ghost_dkf,ghostyghost_frog,gooey_dkf,hotchoco_dfk,invisi_dkittehf,invisible_dfk,invisible_dinokittehfrog,invisible_dkf,invisidfk,kittehdinofrog,nano_dfk,squished_dinokittehfrog
